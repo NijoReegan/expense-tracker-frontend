@@ -20,7 +20,7 @@ npm.cmd run dev
 
 The Vite dev server starts on `http://localhost:5173` and proxies API requests
 (`/auth`, `/users`, `/expenses`, `/incomes`, `/goals`, `/budgets`,
-`/notifications`) to `http://localhost:8089`.
+`/notifications`) to `http://localhost:8080`.
 
 To point the API at another origin (e.g. a deployed backend), set
 `VITE_API_BASE_URL` in `.env` (copy `.env.example`):

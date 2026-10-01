@@ -1,7 +1,7 @@
 import react from '@vitejs/plugin-react'
 import { defineConfig } from 'vite'
 
-const apiTarget = 'http://localhost:8089'
+const apiTarget = 'http://localhost:8080'
 
 // /expenses is BOTH a client-side route (page) and a backend API prefix.
 // A browser page load / refresh of this route sends Accept: text/html and can
