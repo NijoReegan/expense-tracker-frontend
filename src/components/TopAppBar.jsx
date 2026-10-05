@@ -34,7 +34,7 @@ export default function TopAppBar({ title, onMenuClick }) {
           <Icon name="menu" className="text-primary dark:text-primary-fixed-dim" />
         </button>
         <h2 className="font-headline-md-mobile text-headline-md-mobile font-black text-primary dark:text-primary-fixed hidden md:block lg:hidden">
-          Smart Tracker
+          Expense tracker
         </h2>
         {title && (
           <h2 className="font-title-sm text-title-sm font-bold text-primary hidden lg:block">

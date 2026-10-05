@@ -1,4 +1,4 @@
-# Smart Expense Tracker — Frontend (ET-frontend)
+# Expense Tracker — Frontend (ET-frontend)
 
 React 19 + Vite single-page app for the personal expense tracker.
 Talks to the Spring Boot backend in `et-server` (sibling folder).

@@ -64,7 +64,7 @@ export default function Register() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4">
           <Link to="/" className="flex items-center gap-3 font-black text-[#3525cd]">
             <Icon name="account_balance_wallet" />
-            <span>Smart Expense Tracker</span>
+            <span>Expense Tracker</span>
           </Link>
           <Link
             to="/"
@@ -84,7 +84,7 @@ export default function Register() {
               </span>
               <h1 className="mt-5 text-3xl font-black tracking-tight">Create your account</h1>
               <p className="mt-2 text-sm leading-6 text-[#464555]">
-                Get started with Smart Expense Tracker in under a minute.
+                Get started with Expense Tracker in under a minute.
               </p>
             </div>
 
@@ -211,7 +211,7 @@ export default function Register() {
           </div>
 
           <p className="mt-6 text-center text-xs text-[#777587]">
-            Your account and data are stored securely on the Smart Expense Tracker server.
+            Your account and data are stored securely on the Expense Tracker server.
           </p>
         </div>
       </main>

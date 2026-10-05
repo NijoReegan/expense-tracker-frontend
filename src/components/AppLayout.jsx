@@ -20,7 +20,7 @@ export default function AppLayout() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const location = useLocation();
   const { error, dismissError } = useAppData();
-  const title = PAGE_TITLES[location.pathname] ?? 'Smart Tracker';
+  const title = PAGE_TITLES[location.pathname] ?? 'Expense tracker';
 
   const closeSidebar = () => setSidebarOpen(false);
 

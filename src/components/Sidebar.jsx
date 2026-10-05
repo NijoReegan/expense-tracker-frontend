@@ -20,7 +20,7 @@ export default function Sidebar({ open, onNavigate }) {
       <div className="flex flex-col h-full p-6">
         <div className="mb-10 text-left">
           <h1 className="font-headline-md text-headline-md font-bold text-primary dark:text-primary-fixed mb-8">
-            Smart Tracker
+            Expense tracker
           </h1>
           <div className="flex items-center gap-3">
             <div className="w-12 h-12 rounded-full bg-primary-fixed-dim flex items-center justify-center text-primary font-black border-2 border-white shadow-sm">
